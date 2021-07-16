@@ -3,6 +3,7 @@
 *::before {
     margin: 0;
     padding: 0;
+    box-sizing: inherit;
 }
 
 html {
@@ -11,4 +12,5 @@ font-size: 100%;
 
 body{
     font-family: 'Josefin Sans', sans-serif;
+    box-sizing: border-box;
 }
